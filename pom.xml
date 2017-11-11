@@ -10,6 +10,12 @@
     <packaging>war</packaging>
 
 
+	<developers>
+		<developer>
+			<name>Diego Kiyoshi</name>
+			<email>di.kiyoshi@gmail.com</email>
+		</developer>
+	</developers>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
